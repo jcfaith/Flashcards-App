@@ -5,7 +5,7 @@
 ### App Description
 If the question box is clicked on, it should disappear and reveal the answer box.
 
-### App Walk-though
+### App Walk-through
 
 <img src=http://g.recordit.co/rkfGVRAia1.gif width=200><br>
 
