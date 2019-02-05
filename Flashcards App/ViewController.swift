@@ -15,6 +15,12 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-
+    @IBOutlet weak var AnswerLabel: UILabel!
+    
+    @IBOutlet weak var QuestionLabel: UILabel!
+    @IBAction func didTapOnFlashcard(_ sender: Any) {
+        QuestionLabel.isHidden = true
+        
+    }
 }
 
