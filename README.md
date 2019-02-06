@@ -7,7 +7,7 @@ If the question box is clicked on, it should disappear and reveal the answer box
 
 ### App Walk-through
 
-<img src=http://g.recordit.co/3iHu17vyTy.gif width=200><br>
+<img src=http://g.recordit.co/MgmycviGix.gif width=200><br>
 
 ## Required
 - [X] Create New Project in Xcode
