@@ -15,7 +15,6 @@ If the question box is clicked on, it should disappear and reveal the answer box
 #### App Walk-through
 <img src=http://g.recordit.co/MgmycviGix.gif width=200><br>
 
-
 ### Optional Features
 - [ ] Toggle the flashcard between the question side and the answer side
 - [X] Style the question and answer side of the card to better distinguish between the two sides
@@ -25,8 +24,4 @@ If the question box is clicked on, it should disappear and reveal the answer box
 An updated flashcards app that offers multiple choice answers for the question.
 
 #### App Walk-through
-<img src=http://g.recordit.co/1zb78zJ691.gifwidth=200><br>
-
-If the question box is clicked on, it should disappear and reveal the answer box.
-
-<img src=http://g.recordit.co/1zb78zJ691.gifwidth=200><br>
+<img src=http://g.recordit.co/1zb78zJ691.gif width=200><br>
