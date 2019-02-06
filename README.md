@@ -2,7 +2,7 @@
 
 ## Lab 1 
 
-### Required Features
+## Required Features
 ### App Description
 If the question box is clicked on, it should disappear and reveal the answer box.
 
@@ -17,7 +17,7 @@ If the question box is clicked on, it should disappear and reveal the answer box
 - [X] Build in logic to show the answer side when the card is tapped
 - [X] Push code to GitHub
 
-### Optional Features
+## Optional Features
 ### App Description
 An updated flashcards app that offers multiple choice answers for the question.
 
